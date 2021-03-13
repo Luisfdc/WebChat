@@ -1,0 +1,9 @@
+C:\Users\camil\Google Drive\teste\WeChat\WeChat\WebChat.Damain\bin\Debug\netcoreapp3.1\WebChat.Domain.deps.json
+C:\Users\camil\Google Drive\teste\WeChat\WeChat\WebChat.Damain\bin\Debug\netcoreapp3.1\WebChat.Domain.dll
+C:\Users\camil\Google Drive\teste\WeChat\WeChat\WebChat.Damain\bin\Debug\netcoreapp3.1\WebChat.Domain.pdb
+C:\Users\camil\Google Drive\teste\WeChat\WeChat\WebChat.Damain\obj\Debug\netcoreapp3.1\WebChat.Domain.csprojAssemblyReference.cache
+C:\Users\camil\Google Drive\teste\WeChat\WeChat\WebChat.Damain\obj\Debug\netcoreapp3.1\WebChat.Domain.AssemblyInfoInputs.cache
+C:\Users\camil\Google Drive\teste\WeChat\WeChat\WebChat.Damain\obj\Debug\netcoreapp3.1\WebChat.Domain.AssemblyInfo.cs
+C:\Users\camil\Google Drive\teste\WeChat\WeChat\WebChat.Damain\obj\Debug\netcoreapp3.1\WebChat.Domain.csproj.CoreCompileInputs.cache
+C:\Users\camil\Google Drive\teste\WeChat\WeChat\WebChat.Damain\obj\Debug\netcoreapp3.1\WebChat.Domain.dll
+C:\Users\camil\Google Drive\teste\WeChat\WeChat\WebChat.Damain\obj\Debug\netcoreapp3.1\WebChat.Domain.pdb
